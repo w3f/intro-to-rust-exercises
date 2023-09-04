@@ -76,4 +76,5 @@ Below are supplementary resources to aid in your learning journey.  This aims to
 
 - [Pretty State Machine Patterns in Rust by Hoverbear](https://hoverbear.org/blog/rust-state-machine-pattern/)
 - [Blockchain from Scratch (Rust) by Josh Orndorff](https://github.com/JoshOrndorff/blockchain-from-scratch)
+- [Introduction to Polkadot (discusses state machines)](https://research.web3.foundation/Polkadot/overview/polkadot-introduction)
 
