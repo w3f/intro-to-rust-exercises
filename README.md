@@ -24,6 +24,19 @@ Some common examples of finite-state machines in everyday life are:
 
 Particularly, we will focus on a **finite** state machine.  A finite state machine is simply a state machine that has a finite, or fixed, number of states that it can be in.  For example, a light switch can only be in one of two states: on or off.
 
+### Exercises
+
+Each of these exercises will come after a module of learning. Each exercise will be heavily documented, of which various aspects of the course and Rust book will be linked in for relevant concepts within the exercise.
+
+- Exercise 1 - Focus on adding functions specific to the state machine we wish to create (TBD)
+- Exercise 2 - Improve said functions by utilizing borrowing and ownership concepts.
+- Exercise 3 - Start to introduce enums for the states and participants of our machine.
+- Exercise 4 - Utilizing collections to introduce new ways to track the state of the machine.
+- Exercise 5 - Adding structs for the state we want to track and the machine (and struct methods).
+- Exercise 6 - Scaling our code with generics and traits. Introducing new kinds of states we could track due to the practices we utilize, along with showing alternatives (associated types vs. generics)
+- Exercise 7 - Utilizing common iterator patterns used within Rust, going over some concepts of ownership again (iter_mut vs iter vs into_iter).
+- Exercise 8 - Turning out environment into a no-std environment that compiles to Wasm.
+
 
 ### How does this relate to our project?    
 
